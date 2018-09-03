@@ -3,9 +3,26 @@
 ##############################################################################
 # 
 # Project: CheckOut
+# Tools: Eclipse, Maven, Java 1.8
+#
 # Purpose: Read various shopping cart items and apply sales tax, if 
-#          applicable and import tax, if applicable, and and rouds 
+#          applicatble and import tax, if applicable, and and rouds 
 #          the final tax up to the nearest 0.05.
+#
+##############################################################################
+#
+# The *.java files belong in the following package folder:
+#
+#	checkout\src\main\java\checkout
+#
+#
+###############################################################################
+#
+# The following Maven command was run from checkout folder to build the project:
+#
+#		mvn clean install
+#
+###############################################################################
 #
 # Following are the input data files:
 #  
