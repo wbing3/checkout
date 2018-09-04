@@ -9,17 +9,11 @@
 #          applicatble and import tax, if applicable, and and rouds 
 #          the final tax up to the nearest 0.05.
 #
-##############################################################################
+# Github Repository: wbing3\checkout
 #
-# The entire Eclipse project is in the following zip file:
+# Github Eclipse Project: wbing3\checkout\eCheckOut\checkout
 #
-#	eCheckOut.zip
-#
-###############################################################################
-#
-# The *.java files belong in the following package folder:
-#
-#	checkout\src\main\java\checkout
+# Github Eclipse ZIP Project: wbing3\checkout\eCheckOut.zip
 #
 #
 ###############################################################################
@@ -30,7 +24,7 @@
 #
 ###############################################################################
 #
-# Following are the input data files (they reside in the \checkout folder):
+# Following are the input data files (they reside in the wbing3\checkout\eCheckout\checkout folder):
 #  
 #   	shopping_cart_1.txt - Test Case One
 #		shopping_cart_2.txt - Test Case Two
@@ -38,8 +32,9 @@
 #
 # Following is the test case script which executes the above test cases:
 #
-#  Note: The assumption is made that you will be running the test case script from 
-#		 \checkout folder
+#  Note: The assumption is that you will run the test case script from the following folder:
+#
+#		 \eCheckOut\checkout
 #
 # Test Case Execution Script: run_sales_tax_tests.bat
 #
