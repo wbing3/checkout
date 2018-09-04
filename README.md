@@ -2,6 +2,7 @@
 # Shopping Cart Checkout Project with focus on Sales Tax
 ##############################################################################
 # 
+# Create Date: 08/30/2018
 # Project: CheckOut
 # Tools: Eclipse, Maven, Java 1.8, Windows 7 64 Bit
 #
@@ -11,7 +12,7 @@
 #
 # Github Repository: wbing3\checkout
 #
-# Github Eclipse Project: wbing3\checkout\eCheckOut\checkout
+# Github Eclipse Project: wbing3\checkout
 #
 # Github Eclipse ZIP Project: wbing3\checkout\eCheckOut.zip
 #
@@ -24,7 +25,7 @@
 #
 ###############################################################################
 #
-# Following are the input data files (they reside in the wbing3\checkout\eCheckout\checkout folder):
+# Following are the test input data files (they reside in the wbing3\checkout folder):
 #  
 #   	shopping_cart_1.txt - Test Case One
 #		shopping_cart_2.txt - Test Case Two
@@ -34,7 +35,7 @@
 #
 #  Note: The assumption is that you will run the test case script from the following folder:
 #
-#		 \eCheckOut\checkout
+#		 \checkout
 #
 # Test Case Execution Script: run_sales_tax_tests.bat
 #
